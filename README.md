@@ -2,7 +2,7 @@
 Vertical taskbar for Windows
 
 ## Microsoft Store
-<a href="ms-windows-store://pdp/?ProductId=9PCRFNN71JDX">
+<a href="https://apps.microsoft.com/store/detail/taskbar-pro/9PCRFNN71JDX">
    <img src="https://getbadgecdn.azureedge.net/images/en-us%20dark.svg" alt="Get Taskbar Pro on Microsoft Store" />
 </a>
 
